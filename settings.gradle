@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "GD8_Camera_C_11006"
+rootProject.name = "GD8_Proximity_C_11006"
 include ':app'
