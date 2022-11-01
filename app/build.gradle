@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.gd8_camera_c_11006'
+    namespace 'com.example.gd8_accelerometer_c_11006'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.gd8_camera_c_11006"
+        applicationId "com.example.gd8_accelerometer_c_11006"
         minSdk 26
         targetSdk 32
         versionCode 1
